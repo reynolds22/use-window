@@ -1,8 +1,8 @@
 import React from "react";
-import UseWindow from "./component";
+import UseWindowResizeTest from "./component/test";
 
 function App() {
-  return <UseWindow/>
+  return <UseWindowResizeTest/>
 }
 
 export default App;
